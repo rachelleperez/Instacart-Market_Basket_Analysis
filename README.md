@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project serves as the final capstone for the Fall 2019 Data Analyst Training Accelerator (DATA) cohort from Galvanize in partnership with NYC Tech Talent Pipeline. This assignment required finding an interesting dataset, uncovring a problem / business question to address, and provide solutions through data analysis to be completed within five weeks.
+This project serves as the final capstone for the Fall 2019 Data Analyst Training Accelerator (DATA) cohort from Galvanize in partnership with NYC Tech Talent Pipeline. This assignment required finding an interesting dataset, uncovering a problem / business question to address, and provide solutions through data analysis to be completed within five weeks.
 
 ## Data Source
 
@@ -27,7 +27,7 @@ Question: Does (purchase history) data support continuing alcohol expansion?
 
 ## Conclusion
 
-Answer: YES, Instacart should continue expanding alcohol service after data analysis on six areas showed positive results.
+Answer: **YES**, Instacart should continue expanding alcohol service after data analysis on six areas showed positive results.
 * High Demand
 * Cross-Selling Potential
 * Up-Selling Potential
