@@ -23,7 +23,7 @@ Question: Does (purchase history) data support continuing alcohol expansion?
 * NO: Pivot
 
 
-![Project Steps](img/project_steps.PNG) 
+![Project Steps](img/project_steps_2.PNG) 
 
 ## Conclusion
 
