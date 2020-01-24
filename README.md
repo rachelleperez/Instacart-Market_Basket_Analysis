@@ -11,6 +11,7 @@ This project serves as the final capstone for the Fall 2019 Data Analyst Trainin
 ## Background
 
 ![Instacart Logo](img/instacart_logo.PNG)
+
 https://www.instacart.com
 
 While Instacart may seem like an online grocery store, operationally it is a delivery company hiring local shoppers to deliver groceries (including alcohol) from retail partners. The online grocery landscape is characterized by increasing competition, including some backed by large companies linked to Instacart (such as AmazonFresh + Whole Foods, the most well-known Instacart partner until 2018). In the last few years, Instacart has spent resources on building a competitive advantage expanding alcohol delivery, increasing user engagegement, and launching outside the United States.  As of 2019, Instacart delivers alcohol in 14 states plus Washington DC. This project takes a deeper look at the performance of the alcohol segment up to 2017, when data was collected, and its relation to the grocery core business.
@@ -20,6 +21,7 @@ While Instacart may seem like an online grocery store, operationally it is a del
 Question: Does (purchase history) data support continuing alcohol expansion? 
 * YES: Continue alcohol expansion. What marketing insights can we collect from data?
 * NO: Pivot
+
 
 ![Project Steps](img/project_steps.PNG) 
 
@@ -52,7 +54,9 @@ Additional marketing insights discovered include:
 ## Contact Info
 
 Rachelle Perez
+
 rachelleaperez@gmail.com
+
 https://www.linkedin.com/in/rachelleperez/
 
 
