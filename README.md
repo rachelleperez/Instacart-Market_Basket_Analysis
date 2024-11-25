@@ -55,8 +55,6 @@ Additional marketing insights discovered include:
 
 Rachelle Perez
 
-rachelleaperez@gmail.com
-
 https://www.linkedin.com/in/rachelleperez/
 
 
